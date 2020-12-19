@@ -20,6 +20,7 @@ Day1の内容でkaggleデータを使って, Kickstarter Projectsを解いてみ
 Day1_work_浮田凌佑.ipynb
 
 ## Day2
+Day2までの内容でkaggleデータを使って, Kickstarter Projectsを解いてみる
 #### Day2の内容
 ・汎化誤差をホールドアウト法と交差検証法によってそれぞれ評価する  
 ・正則化によって, 出力への寄与が小さい影響は無視して、出力への影響が大きい良い特徴だけでモデルを構成  
@@ -36,7 +37,9 @@ Day1_work_浮田凌佑.ipynb
 
 #### プログラム
 Day2_work_浮田凌佑.ipynb
+
 ## Day3
+Day3までの内容でkaggleデータを使って, Kickstarter Projectsを解いてみる
 #### Day3の内容
 ・特徴選択（フィルタ法・ラッパー法・埋め込み法）  
 ・モデル（決定木→(アンサンブル学習)ランダムフォレスト, アダブースト・ニューラルネットワーク） 
@@ -48,7 +51,9 @@ Day2_work_浮田凌佑.ipynb
 
 #### プログラム
 Day3_work_浮田凌佑.ipynb
+
 ## Day4
+Day4までの内容でkaggleデータを使って, Kickstarter Projectsを解いてみる
 #### Day4の内容
 ・CNN  
 ・RNN  
